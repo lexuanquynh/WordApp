@@ -5,9 +5,7 @@ I have used the following technologies to build this project:
 - Room(Database)
 
 # License
-```
-MIT License
-```
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 # Author
 ```
 Code toan bug
